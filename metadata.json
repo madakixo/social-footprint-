@@ -1,0 +1,5 @@
+{
+  "name": "Nigerian Social Network",
+  "description": "A closed circuit social network for Nigeria, enabling location-based interactions, profiling, and group-specific databases.",
+  "requestFramePermissions": ["geolocation"]
+}
